@@ -3,9 +3,9 @@
 Required
 --------
 
-DSE 6.x version with Spark and DSEFS Enabled
-JDK 1.8 Version
-Maven 3.x Version
+1. DSE 6.x version with Spark and DSEFS Enabled
+2. JDK 1.8 Version
+3. Maven 3.x Version
 
 
 
