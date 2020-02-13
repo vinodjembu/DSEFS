@@ -5,6 +5,7 @@ import org.apache.spark.sql.SparkSession
 import com.datastax.spark.connector.DseConfiguration._
 /**
  * Converting Table data into Parquet Format and storing into DSEFS
+ * 
  * @author vinodjembu
  */
 object ParquetConverter {
